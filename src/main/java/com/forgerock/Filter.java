@@ -35,7 +35,7 @@ public class Filter<T> {
     }
 
     /**
-     * @return
+     * @return String representation of Predicate
      */
     @Override
     public String toString() {
